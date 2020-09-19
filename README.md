@@ -9,5 +9,5 @@
 <img width="" height="" src="./Png/phone.png.png"></img>
 
 #3주차 과제
-<img width="" height="" src="./Png/capstone3.png"></img>
+<img width="" height="" src="./Png/capstone3.PNG"></img>
 <img width="" height="" src="./Png/phone3.png"></img>
