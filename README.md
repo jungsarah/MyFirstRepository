@@ -1,2 +1,1 @@
-# MyFirstRepository
-Hello My name is Hyunsoo Jung
+19273035 정현수
