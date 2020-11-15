@@ -40,3 +40,13 @@
 <img width="" height="" src="./Png/10ma1.PNG"></img>
 *2
 <img width="" height="" src="./Png/10ma2.PNG"></img>
+
+## 11주차 과제
+*actmain
+<img width="" height="" src="./Png/11actmain.PNG"></img>
+*mainact
+<img width="" height="" src="./Png/11mainact.PNG"></img>
+*menu
+<img width="" height="" src="./Png/11menu.PNG"></img>
+*android
+<img width="" height="" src="./Png/11android.PNG"></img>
