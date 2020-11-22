@@ -65,3 +65,18 @@
 *phone
 <img width="" height="" src="./Png/cap11phone.PNG"></img>
 <img width="" height="" src="./Png/cap11phone1.PNG"></img>
+
+## 12주차 과제
+*ac
+<img width="" height="" src="./Png/cap12ac.PNG"></img>
+*ma
+<img width="" height="" src="./Png/cap12ma1.PNG"></img>
+<img width="" height="" src="./Png/cap12ma22.PNG"></img>
+*build
+<img width="" height="" src="./Png/cap12build.PNG"></img>
+*and
+<img width="" height="" src="./Png/cap12and.PNG"></img>
+*phone
+<img width="" height="" src="./Png/12phone1.PNG"></img>
+<img width="" height="" src="./Png/12phone2.PNG"></img>
+
