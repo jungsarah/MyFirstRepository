@@ -50,3 +50,18 @@
 <img width="" height="" src="./Png/11menu.PNG"></img>
 *android
 <img width="" height="" src="./Png/11android.PNG"></img>
+
+## 10주차 에러 수정
+<img width="" height="" src="./Png/cap10re.PNG"></img>
+*detail
+<img width="" height="" src="./Png/cap10detail.PNG"></img>
+*detail
+<img width="" height="" src="./Png/cap10datail1.PNG"></img>
+
+## 11주차 에러 수정
+<img width="" height="" src="./Png/cap11re.PNG"></img>
+*detail
+<img width="" height="" src="./Png/cap11detail.PNG"></img>
+*phone
+<img width="" height="" src="./Png/cap11phone.PNG"></img>
+<img width="" height="" src="./Png/cap11phone1.PNG"></img>
