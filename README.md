@@ -55,7 +55,7 @@
 <img width="" height="" src="./Png/cap10re.PNG"></img>
 *detail
 <img width="" height="" src="./Png/cap10detail.PNG"></img>
-*detail
+*detail1
 <img width="" height="" src="./Png/cap10datail1.PNG"></img>
 
 ## 11주차 에러 수정
