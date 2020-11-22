@@ -71,7 +71,7 @@
 <img width="" height="" src="./Png/cap12ac.PNG"></img>
 *ma
 <img width="" height="" src="./Png/cap12ma1.PNG"></img>
-<img width="" height="" src="./Png/cap12ma22.PNG"></img>
+<img width="" height="" src="./Png/cap12ma2.PNG"></img>
 *build
 <img width="" height="" src="./Png/cap12build.PNG"></img>
 *and
