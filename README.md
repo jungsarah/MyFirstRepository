@@ -80,3 +80,21 @@
 <img width="" height="" src="./Png/12phone1.PNG"></img>
 <img width="" height="" src="./Png/12phone2.PNG"></img>
 
+## 13주차 과제
+* 13am
+<img width="" height="" src="./Png/13am.PNG"></img>
+* 13ma
+<img width="" height="" src="./Png/13ma1.PNG"></img>
+<img width="" height="" src="./Png/13ma2.PNG"></img>
+* movie
+<img width="" height="" src="./Png/13moviejava.PNG"></img>
+* movielist
+<img width="" height="" src="./Png/13movielist.PNG"></img>
+* movieresult
+<img width="" height="" src="./Png/13movieresult.PNG"></img>
+* build
+<img width="" height="" src="./Png/13build.PNG"></img>
+* and
+<img width="" height="" src="./Png/13and.PNG"></img>
+*최종
+<img width="" height="" src="./Png/13.png"></img>
