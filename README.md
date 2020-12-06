@@ -122,8 +122,6 @@
 <img width="" height="" src="./Png/15build.PNG"></img>
 * 15movie
 <img width="" height="" src="./Png/15movie.PNG"></img>
-* 15movieresult
-<img width="" height="" src="./Png/15movieresult.PNG"></img>
 * 15 movieadapter
 <img width="" height="" src="./Png/15movieapater.PNG"></img>
 <img width="" height="" src="./Png/15movieapater2.PNG"></img>
